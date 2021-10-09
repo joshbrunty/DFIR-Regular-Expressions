@@ -1,5 +1,5 @@
-# RegExList
-Regular Expressions List used in Digital Forensic Tasks
+# Regular Expression List
+Regular Expressions commonly used in Digital Forensic Tasks
 
 | Title | Regex | Regex101 | Links/Source |
 |---|---|---|---|
